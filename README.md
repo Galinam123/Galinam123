@@ -7,6 +7,11 @@
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/confluence-090909?style=for-the-badge&logo=confluence&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/ORACLE-090909?style=for-the-badge&logo=ORACLE&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=SQL&logoColor=8cc4d7)
+
 
 ### Testing Documentation
 
