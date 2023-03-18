@@ -1,4 +1,4 @@
-[![Header](https://github.com/Galinam123/Galinam123/blob/main/assets/%D0%91%D0%B5%D0%B7%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8.png)](https://balabanovo.hh.ru/resume/3656cf33ff0b4faa4e0039ed1f484330386c54)
+[![Header](https://github.com/Galinam123/Galinam123/blob/main/assets/maxresdefault.jpg)](https://balabanovo.hh.ru/resume/3656cf33ff0b4faa4e0039ed1f484330386c54)
 
 ## I'm a QA Engineer (Junior)
 
