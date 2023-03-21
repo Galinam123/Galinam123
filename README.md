@@ -18,3 +18,4 @@
 - [Checklists](https://github.com/artichokeee/checklist)
 - [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
 - [Bug-Reports](https://github.com/Galinam123/Galinam123/blob/main/Testing/BugReport.doc)
+- [Mindmap](https://mm.tt/map/2649695633?t=G7KNC4nik9)
